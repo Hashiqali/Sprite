@@ -81,7 +81,7 @@ img{
     float: left ;
 }
 .img1:hover{
-    content: url(image1.svg);
+    content: url(images/image1.svg);
 }
 .img2{
     height: 23px;
@@ -91,7 +91,7 @@ img{
     float: left;
 }
 .img2:hover{
-    content: url(twittwrb.svg);
+    content: url(images/twittwrb.svg);
 }
 .img3{
     height: 21px;
@@ -101,7 +101,7 @@ img{
     float: left
 }
 .img3:hover{
-    content: url(ytb.svg);
+    content: url(images/ytb.svg);
 }
 
 .img4{
@@ -112,7 +112,7 @@ img{
     float: left
 }
 .img4:hover{
-    content: url(instab.svg);
+    content: url(images/instab.svg);
 }
 .img5{
     height: 21px;
@@ -122,7 +122,7 @@ img{
     float: left
 }
 .img5:hover{
-    content: url(sportifyb.svg);
+    content: url(images/sportifyb.svg);
 }
 .img6{
     height: 18px;
@@ -132,7 +132,7 @@ img{
     float: left;
 }
 .img6:hover{
-    content:url(humanb.svg) ;
+    content:url(images/humanb.svg) ;
 }
 
 .bodyy{
